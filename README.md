@@ -15,4 +15,5 @@ My name is **Gaurav**, final year CSE student.
 
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
+<br />
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gaurav-bambhaniya/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/hey9aurav/)  &nbsp; <a href="mailto:a9aurav@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
