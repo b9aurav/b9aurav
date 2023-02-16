@@ -6,8 +6,8 @@ My name is **Gaurav**, final year CSE student.
 
 #### Working on :
 
-- Building an analytics for on-premise data center at M.S. University Computer Center as an intern.
-- Learning DevOps
+- Building an analytics and management system for on-premise data center at M.S. University Computer Center as an intern.
+- Learning DevOps.
 
 #### Achievements :
 
