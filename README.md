@@ -16,17 +16,13 @@
 
 <div align="center">
  
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b9aurav&theme=dark"> <img style="width: 200px; height: 200px;" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"><br>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b9aurav&theme=dark"> <br>
  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"> <br>
  ![](https://github-readme-streak-stats.herokuapp.com/?user=b9aurav&theme=dark&hide_border=false)
  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"> <br>
  <img style="width: 150px; height: 150px;" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b9aurav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b9aurav&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
