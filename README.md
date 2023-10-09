@@ -18,9 +18,9 @@
  
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b9aurav&theme=dark"> <br>
  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"> <br>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=b9aurav&theme=dark&hide_border=false)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b9aurav&theme=dark)](https://git.io/streak-stats)
  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"> <br>
- <img style="width: 150px; height: 150px;" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b9aurav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+ <img style="width: 150px; height: 150px;" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b9aurav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
